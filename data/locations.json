@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Petra",
+        "features": {
+            "history": 5,
+            "nature": 2,
+            "adventure": 3,
+            "culture": 4,
+            "food": 1
+        },
+        "latitude": 30.3285,
+        "longitude": 35.4444,
+        "avg_visit_time": 120
+    },
+    {
+        "name": "Wadi Rum",
+        "features": {
+            "history": 1,
+            "nature": 5,
+            "adventure": 5,
+            "culture": 2,
+            "food": 1
+        },
+        "latitude": 29.532,
+        "longitude": 35.4196,
+        "avg_visit_time": 90
+    }
+]
