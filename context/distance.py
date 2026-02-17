@@ -1,5 +1,9 @@
 import math
 
+# (straight-line distance)
+# replace with road-based distance
+# by Google Maps API 
+
 def calculate_distance(lat1,lon1,lat2,lon2):
     R=6371
     dlat=math.radians(lat2-lat1)
